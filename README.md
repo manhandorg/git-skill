@@ -1,4 +1,3 @@
 # git-skill
-# test to deallaynomor
-# add from manhand
+# test to deallaynomo GG
 HELLO
