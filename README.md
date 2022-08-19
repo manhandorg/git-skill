@@ -1,3 +1,2 @@
 # git-skill
-# test from deallaynomore
-# add from manhand
+# test from deallaynomor
